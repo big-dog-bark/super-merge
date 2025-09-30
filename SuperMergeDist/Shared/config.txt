@@ -1,0 +1,9 @@
+;!@Install@!UTF-8!
+Title="安装 SuperMerge 插件"
+BeginPrompt="是否安装 SuperMerge 插件？"
+InstallPath=".\SuperMergeTemp"
+RunProgram="setup.exe"
+GUIMode="2"
+DeleteOnExit="0"
+;!@InstallEnd@!
+
