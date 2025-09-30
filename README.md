@@ -3,6 +3,8 @@ Word邮件合并增强——批量导出插件
 
 使用教程见B站。
 
+下载链接：https://github.com/big-dog-bark/super-merge/releases/download/v1.0.0/SuperMergePluginInstall.exe
+
 ## ⚠️ 许可证声明
 
 本项目采用 GNU Affero General Public License v3.0 (AGPL-3.0) 协议进行开源。请注意以下重要条款：
