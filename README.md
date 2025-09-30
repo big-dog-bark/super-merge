@@ -1,7 +1,7 @@
 # super-merge
 Word邮件合并增强——批量导出插件
 
-使用教程见B站。
+使用教程见B站：https://www.bilibili.com/video/BV1CSn1zuEny/
 
 下载链接：https://github.com/big-dog-bark/super-merge/releases/download/v1.0.0/SuperMergePluginInstall.exe
 
